@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/aldrin112602/east-system-colleges-of-rizal/issues"
   },
-  "homepage": "https://github.com/aldrin112602/east-system-colleges-of-rizal#readme"
+  "homepage": "https://github.com/aldrin112602/east-system-colleges-of-rizal#readme",
+  "dependencies": {
+    "sweetalert2": "^11.7.12"
+  }
 }
