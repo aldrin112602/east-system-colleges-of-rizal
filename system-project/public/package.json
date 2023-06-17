@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/aldrin112602/east-system-colleges-of-rizal#readme",
   "dependencies": {
+    "bootstrap": "^5.2.3",
     "jquery": "^3.7.0",
     "sweetalert2": "^11.7.12"
   }
